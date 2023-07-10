@@ -1,3 +1,5 @@
+![](https://static.wixstatic.com/media/8c12aa_88b69f1d378a4377922a953c3b26eaa9~mv2.gif)
+
 <h1 align="center">👋 Hey, I'm Nitish Tapse!</h1>
 <h3 align="center">🎨 UI/UX Designer | Creative Problem Solver | Passionate about User-Centered Design 🎨 </h3>
 
